@@ -2,7 +2,7 @@
         <img src="https://github.com/thiagosequeira/Pesificalo-Extension/blob/master/images/banner_pesificalo.png" />
 </p>
 
-# Pesificalo - Conversor de moneda para Google Chrome
+# Pesificalo - Conversor de moneda para Google Chrome 💵💱
 Conversor de moneda para Google Chrome. Convertí los precios de USD a ARS, calculá impuestos rápido y sin tener que hacer tanto quilombo.
 
 ## Instalación
