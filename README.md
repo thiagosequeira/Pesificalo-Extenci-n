@@ -1,4 +1,8 @@
-# Pesificalo - Conversor de moneda para Google Chrome
+<p align="center">
+        <img src="https://github.com/thiagosequeira/Pesificalo-Extension/blob/master/images/icon48.png" />
+</p>
+
+# Pesificalo - Conversor de moneda para Google Chrome 
 Este es un conversor de moneda simple para Google Chrome. Con esta extensión, puedes convertir fácilmente entre dólares estadounidenses (USD) y pesos argentinos (ARS).
 
 ## Instalación
