@@ -21,7 +21,7 @@ Conversor de moneda para Google Chrome. Convertí los precios de USD a ARS, calc
 
 ## Características
 - Convierte entre dólares estadounidenses (USD) y pesos argentinos (ARS).
-- Utiliza una tasa de cambio en tiempo real obtenida de Open Exchange Rates API.
+- Utiliza una tasa de cambio en tiempo real obtenida de Dolarsi API.
 - Actualiza automáticamente la tasa de cambio cada hora.
 - Interfaz de usuario simple y fácil de usar.
 
