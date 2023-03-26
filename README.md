@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://github.com/thiagosequeira/Pesificalo-Extension/blob/master/images/icon48.png" />
+        <img src="https://github.com/thiagosequeira/Pesificalo-Extension/blob/master/images/banner_pesificalo.png" />
 </p>
 
 # Pesificalo - Conversor de moneda para Google Chrome
