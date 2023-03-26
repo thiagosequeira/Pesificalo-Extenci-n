@@ -32,7 +32,3 @@ Si deseas contribuir a este proyecto, puedes hacerlo de la siguiente manera:
 2. Crea una nueva rama con el nombre de tu nueva funcionalidad.
 3. Implementa la nueva funcionalidad y haz tus cambios.
 4. Realiza un pull request para fusionar tus cambios con la rama principal del repositorio.
-
-
-## Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para obtener más información.
