@@ -3,7 +3,7 @@
 </p>
 
 # Pesificalo - Conversor de moneda para Google Chrome
-Este es un conversor de moneda simple para Google Chrome. Con esta extensión, puedes convertir fácilmente entre dólares estadounidenses (USD) y pesos argentinos (ARS).
+Conversor de moneda para Google Chrome. Convertí los precios de USD a ARS, calculá impuestos rápido y sin tener que hacer tanto quilombo.
 
 ## Instalación
     1. Descarga el archivo ZIP de la extensión desde el repositorio de GitHub.
